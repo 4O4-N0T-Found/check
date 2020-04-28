@@ -4,3 +4,4 @@
 ### check.py  
 需要在脚本中手动填写自己的CONFIG信息。抓包获取到学校小程序的SESSION作为命令行参数。  
 运行脚本：check.py SESSION。  
+注：SESSION每天都需要重新抓取。  
